@@ -4,3 +4,5 @@ faiss-cpu>=1.7.0
 numpy>=1.21.0
 sentence-transformers>=2.2.0
 torch>=2.0.0
+google-generativeai
+python-dotenv
